@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+Home screen : (https://raw.githubusercontent.com/muyasser/flutter-book-app-design/master/cover1.png)
+Detail screen: (https://raw.githubusercontent.com/muyasser/flutter-book-app-design/master/cover2.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
