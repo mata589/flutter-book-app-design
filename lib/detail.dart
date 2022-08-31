@@ -17,7 +17,9 @@ class Detail extends StatelessWidget {
           icon: Icon(
             Icons.search,
           ),
-          onPressed: () {},
+          onPressed: () {
+            print('hello');
+          },
         ),
       ],
     );
